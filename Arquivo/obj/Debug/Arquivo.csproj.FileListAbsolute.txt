@@ -1,0 +1,10 @@
+C:\Users\wirioliveira\source\repos\ArquivoPasta\Arquivo\bin\Debug\Arquivo.exe.config
+C:\Users\wirioliveira\source\repos\ArquivoPasta\Arquivo\bin\Debug\Arquivo.exe
+C:\Users\wirioliveira\source\repos\ArquivoPasta\Arquivo\bin\Debug\Arquivo.pdb
+C:\Users\wirioliveira\source\repos\ArquivoPasta\Arquivo\obj\Debug\Arquivo.csproj.AssemblyReference.cache
+C:\Users\wirioliveira\source\repos\ArquivoPasta\Arquivo\obj\Debug\Arquivo.Form1.resources
+C:\Users\wirioliveira\source\repos\ArquivoPasta\Arquivo\obj\Debug\Arquivo.Properties.Resources.resources
+C:\Users\wirioliveira\source\repos\ArquivoPasta\Arquivo\obj\Debug\Arquivo.csproj.GenerateResource.cache
+C:\Users\wirioliveira\source\repos\ArquivoPasta\Arquivo\obj\Debug\Arquivo.csproj.CoreCompileInputs.cache
+C:\Users\wirioliveira\source\repos\ArquivoPasta\Arquivo\obj\Debug\Arquivo.exe
+C:\Users\wirioliveira\source\repos\ArquivoPasta\Arquivo\obj\Debug\Arquivo.pdb

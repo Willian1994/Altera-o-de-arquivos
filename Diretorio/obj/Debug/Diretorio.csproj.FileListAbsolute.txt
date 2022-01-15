@@ -1,0 +1,10 @@
+C:\Users\wirioliveira\source\repos\ArquivoPasta\Diretorio\obj\Debug\Diretorio.csproj.AssemblyReference.cache
+C:\Users\wirioliveira\source\repos\ArquivoPasta\Diretorio\obj\Debug\Diretorio.Form1.resources
+C:\Users\wirioliveira\source\repos\ArquivoPasta\Diretorio\obj\Debug\Diretorio.Properties.Resources.resources
+C:\Users\wirioliveira\source\repos\ArquivoPasta\Diretorio\obj\Debug\Diretorio.csproj.GenerateResource.cache
+C:\Users\wirioliveira\source\repos\ArquivoPasta\Diretorio\obj\Debug\Diretorio.csproj.CoreCompileInputs.cache
+C:\Users\wirioliveira\source\repos\ArquivoPasta\Diretorio\bin\Debug\Diretorio.exe.config
+C:\Users\wirioliveira\source\repos\ArquivoPasta\Diretorio\bin\Debug\Diretorio.exe
+C:\Users\wirioliveira\source\repos\ArquivoPasta\Diretorio\bin\Debug\Diretorio.pdb
+C:\Users\wirioliveira\source\repos\ArquivoPasta\Diretorio\obj\Debug\Diretorio.exe
+C:\Users\wirioliveira\source\repos\ArquivoPasta\Diretorio\obj\Debug\Diretorio.pdb
